@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdur Rafay</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw0eI25sXmngHyDsDkDDnP3b&ust=1711863622539000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDI1ZKVlIUDFQAAAAAdAAAAABAJ" alt="rafaykz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rafaykz&label=Profile%20views&color=0e75b6&style=flat" alt="rafaykz" /> </p>
 
 - ⚡ Fun fact **I am funy**
 
