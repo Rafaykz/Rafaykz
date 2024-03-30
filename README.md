@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abdur Rafay</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<p align="left"> <img src="programmer.gif" alt="rafaykz" /> </p>
+<p align="left"> <img src="" alt="rafaykz" /> </p>
 
 - ⚡ Fun fact **I am funy**
 
